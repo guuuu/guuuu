@@ -7,3 +7,5 @@
 * You can check my digital profile for some more details @ https://guuuu.github.io/gxdev. 🖥️
 
 * Coding is fun
+
+* You can check the projects that im currently working on @ https://github.com/gxd3v
